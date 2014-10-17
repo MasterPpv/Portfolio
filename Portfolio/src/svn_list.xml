@@ -1,0 +1,1848 @@
+<?xml version="1.0"?>
+<lists>
+<list
+   path="https://subversion.ews.illinois.edu/svn/fa14-cs242/ppvora2">
+<entry
+   kind="dir">
+<name>Assignment0</name>
+<commit
+   revision="1863">
+<author>ppvora2</author>
+<date>2014-09-05T16:33:22.057433Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment0/.git</name>
+<commit
+   revision="1863">
+<author>ppvora2</author>
+<date>2014-09-05T16:33:22.057433Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment0/.git/COMMIT_EDITMSG</name>
+<size>614</size>
+<commit
+   revision="1863">
+<author>ppvora2</author>
+<date>2014-09-05T16:33:22.057433Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment0/.git/HEAD</name>
+<size>23</size>
+<commit
+   revision="1863">
+<author>ppvora2</author>
+<date>2014-09-05T16:33:22.057433Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment0/.git/config</name>
+<size>334</size>
+<commit
+   revision="1863">
+<author>ppvora2</author>
+<date>2014-09-05T16:33:22.057433Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment0/.git/description</name>
+<size>73</size>
+<commit
+   revision="1863">
+<author>ppvora2</author>
+<date>2014-09-05T16:33:22.057433Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment0/.git/hooks</name>
+<commit
+   revision="1863">
+<author>ppvora2</author>
+<date>2014-09-05T16:33:22.057433Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment0/.git/hooks/applypatch-msg.sample</name>
+<size>452</size>
+<commit
+   revision="1863">
+<author>ppvora2</author>
+<date>2014-09-05T16:33:22.057433Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment0/.git/hooks/commit-msg.sample</name>
+<size>896</size>
+<commit
+   revision="1863">
+<author>ppvora2</author>
+<date>2014-09-05T16:33:22.057433Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment0/.git/hooks/post-commit.sample</name>
+<size>160</size>
+<commit
+   revision="1863">
+<author>ppvora2</author>
+<date>2014-09-05T16:33:22.057433Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment0/.git/hooks/post-receive.sample</name>
+<size>552</size>
+<commit
+   revision="1863">
+<author>ppvora2</author>
+<date>2014-09-05T16:33:22.057433Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment0/.git/hooks/post-update.sample</name>
+<size>189</size>
+<commit
+   revision="1863">
+<author>ppvora2</author>
+<date>2014-09-05T16:33:22.057433Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment0/.git/hooks/pre-applypatch.sample</name>
+<size>398</size>
+<commit
+   revision="1863">
+<author>ppvora2</author>
+<date>2014-09-05T16:33:22.057433Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment0/.git/hooks/pre-commit.sample</name>
+<size>1704</size>
+<commit
+   revision="1863">
+<author>ppvora2</author>
+<date>2014-09-05T16:33:22.057433Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment0/.git/hooks/pre-rebase.sample</name>
+<size>4951</size>
+<commit
+   revision="1863">
+<author>ppvora2</author>
+<date>2014-09-05T16:33:22.057433Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment0/.git/hooks/prepare-commit-msg.sample</name>
+<size>1239</size>
+<commit
+   revision="1863">
+<author>ppvora2</author>
+<date>2014-09-05T16:33:22.057433Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment0/.git/hooks/update.sample</name>
+<size>3611</size>
+<commit
+   revision="1863">
+<author>ppvora2</author>
+<date>2014-09-05T16:33:22.057433Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment0/.git/index</name>
+<size>344</size>
+<commit
+   revision="1863">
+<author>ppvora2</author>
+<date>2014-09-05T16:33:22.057433Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment0/.git/info</name>
+<commit
+   revision="1863">
+<author>ppvora2</author>
+<date>2014-09-05T16:33:22.057433Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment0/.git/info/exclude</name>
+<size>240</size>
+<commit
+   revision="1863">
+<author>ppvora2</author>
+<date>2014-09-05T16:33:22.057433Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment0/.git/logs</name>
+<commit
+   revision="1863">
+<author>ppvora2</author>
+<date>2014-09-05T16:33:22.057433Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment0/.git/logs/HEAD</name>
+<size>1458</size>
+<commit
+   revision="1863">
+<author>ppvora2</author>
+<date>2014-09-05T16:33:22.057433Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment0/.git/logs/refs</name>
+<commit
+   revision="1863">
+<author>ppvora2</author>
+<date>2014-09-05T16:33:22.057433Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment0/.git/logs/refs/heads</name>
+<commit
+   revision="1863">
+<author>ppvora2</author>
+<date>2014-09-05T16:33:22.057433Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment0/.git/logs/refs/heads/master</name>
+<size>1458</size>
+<commit
+   revision="1863">
+<author>ppvora2</author>
+<date>2014-09-05T16:33:22.057433Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment0/.git/logs/refs/remotes</name>
+<commit
+   revision="1863">
+<author>ppvora2</author>
+<date>2014-09-05T16:33:22.057433Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment0/.git/logs/refs/remotes/origin</name>
+<commit
+   revision="1863">
+<author>ppvora2</author>
+<date>2014-09-05T16:33:22.057433Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment0/.git/logs/refs/remotes/origin/master</name>
+<size>735</size>
+<commit
+   revision="1863">
+<author>ppvora2</author>
+<date>2014-09-05T16:33:22.057433Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment0/.git/objects</name>
+<commit
+   revision="1863">
+<author>ppvora2</author>
+<date>2014-09-05T16:33:22.057433Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment0/.git/objects/0a</name>
+<commit
+   revision="1863">
+<author>ppvora2</author>
+<date>2014-09-05T16:33:22.057433Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment0/.git/objects/0a/84f0e71261988355c012fa6f962ee624cbc98b</name>
+<size>240</size>
+<commit
+   revision="1863">
+<author>ppvora2</author>
+<date>2014-09-05T16:33:22.057433Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment0/.git/objects/1e</name>
+<commit
+   revision="1863">
+<author>ppvora2</author>
+<date>2014-09-05T16:33:22.057433Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment0/.git/objects/1e/3029479b4602857f30a12e9eea8ad9b251f985</name>
+<size>385</size>
+<commit
+   revision="1863">
+<author>ppvora2</author>
+<date>2014-09-05T16:33:22.057433Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment0/.git/objects/23</name>
+<commit
+   revision="1863">
+<author>ppvora2</author>
+<date>2014-09-05T16:33:22.057433Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment0/.git/objects/23/1429d88fbee32a23017b0c6d8e72388f00f2c5</name>
+<size>86</size>
+<commit
+   revision="1863">
+<author>ppvora2</author>
+<date>2014-09-05T16:33:22.057433Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment0/.git/objects/2a</name>
+<commit
+   revision="1863">
+<author>ppvora2</author>
+<date>2014-09-05T16:33:22.057433Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment0/.git/objects/2a/ecf23a2ac7d41bb8ed792a6bfe71077d9d0a31</name>
+<size>159</size>
+<commit
+   revision="1863">
+<author>ppvora2</author>
+<date>2014-09-05T16:33:22.057433Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment0/.git/objects/2b</name>
+<commit
+   revision="1863">
+<author>ppvora2</author>
+<date>2014-09-05T16:33:22.057433Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment0/.git/objects/2b/6595057f2930ea40d747999d9587d6a56a4532</name>
+<size>225</size>
+<commit
+   revision="1863">
+<author>ppvora2</author>
+<date>2014-09-05T16:33:22.057433Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment0/.git/objects/3b</name>
+<commit
+   revision="1863">
+<author>ppvora2</author>
+<date>2014-09-05T16:33:22.057433Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment0/.git/objects/3b/b8c991fe79969fca932ab0103e1bf684f5de00</name>
+<size>127</size>
+<commit
+   revision="1863">
+<author>ppvora2</author>
+<date>2014-09-05T16:33:22.057433Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment0/.git/objects/4e</name>
+<commit
+   revision="1863">
+<author>ppvora2</author>
+<date>2014-09-05T16:33:22.057433Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment0/.git/objects/4e/9284b3969d2054d9558530c0a15adea37b2e04</name>
+<size>132</size>
+<commit
+   revision="1863">
+<author>ppvora2</author>
+<date>2014-09-05T16:33:22.057433Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment0/.git/objects/61</name>
+<commit
+   revision="1863">
+<author>ppvora2</author>
+<date>2014-09-05T16:33:22.057433Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment0/.git/objects/61/59c748c0aab26945eaf3004eca24ef35fb273a</name>
+<size>87</size>
+<commit
+   revision="1863">
+<author>ppvora2</author>
+<date>2014-09-05T16:33:22.057433Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment0/.git/objects/72</name>
+<commit
+   revision="1863">
+<author>ppvora2</author>
+<date>2014-09-05T16:33:22.057433Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment0/.git/objects/72/2c6ec24d86bdb2b9518f925ecacd5f99ba7d61</name>
+<size>1998</size>
+<commit
+   revision="1863">
+<author>ppvora2</author>
+<date>2014-09-05T16:33:22.057433Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment0/.git/objects/74</name>
+<commit
+   revision="1863">
+<author>ppvora2</author>
+<date>2014-09-05T16:33:22.057433Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment0/.git/objects/74/191ba1eaec23c51d98d8bcc3c009fd4f524eb2</name>
+<size>516</size>
+<commit
+   revision="1863">
+<author>ppvora2</author>
+<date>2014-09-05T16:33:22.057433Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment0/.git/objects/96</name>
+<commit
+   revision="1863">
+<author>ppvora2</author>
+<date>2014-09-05T16:33:22.057433Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment0/.git/objects/96/da1e10738fc04f6008390b6eb82ebf76ffc268</name>
+<size>184</size>
+<commit
+   revision="1863">
+<author>ppvora2</author>
+<date>2014-09-05T16:33:22.057433Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment0/.git/objects/98</name>
+<commit
+   revision="1863">
+<author>ppvora2</author>
+<date>2014-09-05T16:33:22.057433Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment0/.git/objects/98/388cd1233dcc4adf1bb2087203488080f795e3</name>
+<size>86</size>
+<commit
+   revision="1863">
+<author>ppvora2</author>
+<date>2014-09-05T16:33:22.057433Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment0/.git/objects/98/6f09a498a0d280859512d9d4b1d8fc315e0f67</name>
+<size>79</size>
+<commit
+   revision="1863">
+<author>ppvora2</author>
+<date>2014-09-05T16:33:22.057433Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment0/.git/objects/a2</name>
+<commit
+   revision="1863">
+<author>ppvora2</author>
+<date>2014-09-05T16:33:22.057433Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment0/.git/objects/a2/a46938d0cae0d1946002ca27954de1bdc9eda3</name>
+<size>521</size>
+<commit
+   revision="1863">
+<author>ppvora2</author>
+<date>2014-09-05T16:33:22.057433Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment0/.git/objects/a5</name>
+<commit
+   revision="1863">
+<author>ppvora2</author>
+<date>2014-09-05T16:33:22.057433Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment0/.git/objects/a5/af8b10fa2f0fbd85f3c8462872b5c7e67a6fc3</name>
+<size>508</size>
+<commit
+   revision="1863">
+<author>ppvora2</author>
+<date>2014-09-05T16:33:22.057433Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment0/.git/objects/b2</name>
+<commit
+   revision="1863">
+<author>ppvora2</author>
+<date>2014-09-05T16:33:22.057433Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment0/.git/objects/b2/b6c886713581931ec469e26612fb61035a2c77</name>
+<size>54</size>
+<commit
+   revision="1863">
+<author>ppvora2</author>
+<date>2014-09-05T16:33:22.057433Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment0/.git/objects/b4</name>
+<commit
+   revision="1863">
+<author>ppvora2</author>
+<date>2014-09-05T16:33:22.057433Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment0/.git/objects/b4/836983f405b897409d9f81b5427d8329c05c49</name>
+<size>1587</size>
+<commit
+   revision="1863">
+<author>ppvora2</author>
+<date>2014-09-05T16:33:22.057433Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment0/.git/objects/be</name>
+<commit
+   revision="1863">
+<author>ppvora2</author>
+<date>2014-09-05T16:33:22.057433Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment0/.git/objects/be/8a1323e1c74fb9cbeee60a3569c1dfd40bc04d</name>
+<size>454</size>
+<commit
+   revision="1863">
+<author>ppvora2</author>
+<date>2014-09-05T16:33:22.057433Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment0/.git/objects/c3</name>
+<commit
+   revision="1863">
+<author>ppvora2</author>
+<date>2014-09-05T16:33:22.057433Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment0/.git/objects/c3/acce362bd3bbe00ba351740b5cd97e356ff742</name>
+<size>214</size>
+<commit
+   revision="1863">
+<author>ppvora2</author>
+<date>2014-09-05T16:33:22.057433Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment0/.git/objects/e0</name>
+<commit
+   revision="1863">
+<author>ppvora2</author>
+<date>2014-09-05T16:33:22.057433Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment0/.git/objects/e0/fab34b68b1cb072a121454ecbbfb1b59c643a5</name>
+<size>273</size>
+<commit
+   revision="1863">
+<author>ppvora2</author>
+<date>2014-09-05T16:33:22.057433Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment0/.git/objects/info</name>
+<commit
+   revision="1863">
+<author>ppvora2</author>
+<date>2014-09-05T16:33:22.057433Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment0/.git/objects/pack</name>
+<commit
+   revision="1863">
+<author>ppvora2</author>
+<date>2014-09-05T16:33:22.057433Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment0/.git/packed-refs</name>
+<size>94</size>
+<commit
+   revision="1863">
+<author>ppvora2</author>
+<date>2014-09-05T16:33:22.057433Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment0/.git/refs</name>
+<commit
+   revision="1863">
+<author>ppvora2</author>
+<date>2014-09-05T16:33:22.057433Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment0/.git/refs/heads</name>
+<commit
+   revision="1863">
+<author>ppvora2</author>
+<date>2014-09-05T16:33:22.057433Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment0/.git/refs/heads/master</name>
+<size>41</size>
+<commit
+   revision="1863">
+<author>ppvora2</author>
+<date>2014-09-05T16:33:22.057433Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment0/.git/refs/remotes</name>
+<commit
+   revision="1863">
+<author>ppvora2</author>
+<date>2014-09-05T16:33:22.057433Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment0/.git/refs/remotes/origin</name>
+<commit
+   revision="1863">
+<author>ppvora2</author>
+<date>2014-09-05T16:33:22.057433Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment0/.git/refs/remotes/origin/HEAD</name>
+<size>32</size>
+<commit
+   revision="1863">
+<author>ppvora2</author>
+<date>2014-09-05T16:33:22.057433Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment0/.git/refs/remotes/origin/master</name>
+<size>41</size>
+<commit
+   revision="1863">
+<author>ppvora2</author>
+<date>2014-09-05T16:33:22.057433Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment0/.git/refs/tags</name>
+<commit
+   revision="1863">
+<author>ppvora2</author>
+<date>2014-09-05T16:33:22.057433Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment0/README.md</name>
+<size>84</size>
+<commit
+   revision="1863">
+<author>ppvora2</author>
+<date>2014-09-05T16:33:22.057433Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment0/StreamQuestions.exe</name>
+<size>7886336</size>
+<commit
+   revision="1863">
+<author>ppvora2</author>
+<date>2014-09-05T16:33:22.057433Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment0/config.json</name>
+<size>277</size>
+<commit
+   revision="1863">
+<author>ppvora2</author>
+<date>2014-09-05T16:33:22.057433Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment0/editbox.go</name>
+<size>6117</size>
+<commit
+   revision="1863">
+<author>ppvora2</author>
+<date>2014-09-05T16:33:22.057433Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment0/queue.go</name>
+<size>1593</size>
+<commit
+   revision="1863">
+<author>ppvora2</author>
+<date>2014-09-05T16:33:22.057433Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment0/streamquestions.go</name>
+<size>4091</size>
+<commit
+   revision="1863">
+<author>ppvora2</author>
+<date>2014-09-05T16:33:22.057433Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.0</name>
+<commit
+   revision="4395">
+<author>ppvora2</author>
+<date>2014-09-19T16:58:11.908377Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.0/Chess</name>
+<commit
+   revision="4395">
+<author>ppvora2</author>
+<date>2014-09-19T16:58:11.908377Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.0/Chess/.classpath</name>
+<size>379</size>
+<commit
+   revision="4350">
+<author>ppvora2</author>
+<date>2014-09-19T15:15:24.386309Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.0/Chess/.gitignore</name>
+<size>6</size>
+<commit
+   revision="2931">
+<author>ppvora2</author>
+<date>2014-09-12T17:06:59.502639Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.0/Chess/.project</name>
+<size>381</size>
+<commit
+   revision="2931">
+<author>ppvora2</author>
+<date>2014-09-12T17:06:59.502639Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.0/Chess/.settings</name>
+<commit
+   revision="2931">
+<author>ppvora2</author>
+<date>2014-09-12T17:06:59.502639Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.0/Chess/.settings/org.eclipse.jdt.core.prefs</name>
+<size>598</size>
+<commit
+   revision="2931">
+<author>ppvora2</author>
+<date>2014-09-12T17:06:59.502639Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.0/Chess/src</name>
+<commit
+   revision="4395">
+<author>ppvora2</author>
+<date>2014-09-19T16:58:11.908377Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.0/Chess/src/Bishop.java</name>
+<size>1773</size>
+<commit
+   revision="4395">
+<author>ppvora2</author>
+<date>2014-09-19T16:58:11.908377Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.0/Chess/src/BishopTest.java</name>
+<size>409</size>
+<commit
+   revision="4354">
+<author>ppvora2</author>
+<date>2014-09-19T15:33:18.332636Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.0/Chess/src/Board.java</name>
+<size>2243</size>
+<commit
+   revision="4395">
+<author>ppvora2</author>
+<date>2014-09-19T16:58:11.908377Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.0/Chess/src/Chess.java</name>
+<size>103</size>
+<commit
+   revision="4395">
+<author>ppvora2</author>
+<date>2014-09-19T16:58:11.908377Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.0/Chess/src/Color.java</name>
+<size>407</size>
+<commit
+   revision="4286">
+<author>ppvora2</author>
+<date>2014-09-19T08:42:49.857915Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.0/Chess/src/GUI.java</name>
+<size>1529</size>
+<commit
+   revision="4395">
+<author>ppvora2</author>
+<date>2014-09-19T16:58:11.908377Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.0/Chess/src/King.java</name>
+<size>3093</size>
+<commit
+   revision="4395">
+<author>ppvora2</author>
+<date>2014-09-19T16:58:11.908377Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.0/Chess/src/KingTest.java</name>
+<size>407</size>
+<commit
+   revision="4354">
+<author>ppvora2</author>
+<date>2014-09-19T15:33:18.332636Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.0/Chess/src/Knight.java</name>
+<size>2168</size>
+<commit
+   revision="4395">
+<author>ppvora2</author>
+<date>2014-09-19T16:58:11.908377Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.0/Chess/src/KnightTest.java</name>
+<size>411</size>
+<commit
+   revision="4354">
+<author>ppvora2</author>
+<date>2014-09-19T15:33:18.332636Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.0/Chess/src/Location.java</name>
+<size>735</size>
+<commit
+   revision="4286">
+<author>ppvora2</author>
+<date>2014-09-19T08:42:49.857915Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.0/Chess/src/Pawn.java</name>
+<size>3015</size>
+<commit
+   revision="4395">
+<author>ppvora2</author>
+<date>2014-09-19T16:58:11.908377Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.0/Chess/src/PawnTest.java</name>
+<size>407</size>
+<commit
+   revision="4354">
+<author>ppvora2</author>
+<date>2014-09-19T15:33:18.332636Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.0/Chess/src/Piece.java</name>
+<size>3591</size>
+<commit
+   revision="4395">
+<author>ppvora2</author>
+<date>2014-09-19T16:58:11.908377Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.0/Chess/src/Queen.java</name>
+<size>2376</size>
+<commit
+   revision="4395">
+<author>ppvora2</author>
+<date>2014-09-19T16:58:11.908377Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.0/Chess/src/QueenTest.java</name>
+<size>408</size>
+<commit
+   revision="4354">
+<author>ppvora2</author>
+<date>2014-09-19T15:33:18.332636Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.0/Chess/src/Rook.java</name>
+<size>4300</size>
+<commit
+   revision="4395">
+<author>ppvora2</author>
+<date>2014-09-19T16:58:11.908377Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.0/Chess/src/RookTest.java</name>
+<size>407</size>
+<commit
+   revision="4354">
+<author>ppvora2</author>
+<date>2014-09-19T15:33:18.332636Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.0/Chess/src/Tile.java</name>
+<size>2610</size>
+<commit
+   revision="4395">
+<author>ppvora2</author>
+<date>2014-09-19T16:58:11.908377Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.1</name>
+<commit
+   revision="4397">
+<author>ppvora2</author>
+<date>2014-09-19T17:01:16.770693Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.1/Chess</name>
+<commit
+   revision="4397">
+<author>ppvora2</author>
+<date>2014-09-19T17:01:16.770693Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/Chess/.classpath</name>
+<size>379</size>
+<commit
+   revision="4397">
+<author>ppvora2</author>
+<date>2014-09-19T17:01:16.770693Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/Chess/.gitignore</name>
+<size>6</size>
+<commit
+   revision="4397">
+<author>ppvora2</author>
+<date>2014-09-19T17:01:16.770693Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/Chess/.project</name>
+<size>381</size>
+<commit
+   revision="4397">
+<author>ppvora2</author>
+<date>2014-09-19T17:01:16.770693Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.1/Chess/.settings</name>
+<commit
+   revision="4397">
+<author>ppvora2</author>
+<date>2014-09-19T17:01:16.770693Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/Chess/.settings/org.eclipse.jdt.core.prefs</name>
+<size>598</size>
+<commit
+   revision="4397">
+<author>ppvora2</author>
+<date>2014-09-19T17:01:16.770693Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.1/Chess/src</name>
+<commit
+   revision="4397">
+<author>ppvora2</author>
+<date>2014-09-19T17:01:16.770693Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/Chess/src/Bishop.java</name>
+<size>1773</size>
+<commit
+   revision="4397">
+<author>ppvora2</author>
+<date>2014-09-19T17:01:16.770693Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/Chess/src/BishopTest.java</name>
+<size>409</size>
+<commit
+   revision="4397">
+<author>ppvora2</author>
+<date>2014-09-19T17:01:16.770693Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/Chess/src/Board.java</name>
+<size>2243</size>
+<commit
+   revision="4397">
+<author>ppvora2</author>
+<date>2014-09-19T17:01:16.770693Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/Chess/src/Chess.java</name>
+<size>103</size>
+<commit
+   revision="4397">
+<author>ppvora2</author>
+<date>2014-09-19T17:01:16.770693Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/Chess/src/Color.java</name>
+<size>407</size>
+<commit
+   revision="4397">
+<author>ppvora2</author>
+<date>2014-09-19T17:01:16.770693Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/Chess/src/GUI.java</name>
+<size>1529</size>
+<commit
+   revision="4397">
+<author>ppvora2</author>
+<date>2014-09-19T17:01:16.770693Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/Chess/src/King.java</name>
+<size>3093</size>
+<commit
+   revision="4397">
+<author>ppvora2</author>
+<date>2014-09-19T17:01:16.770693Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/Chess/src/KingTest.java</name>
+<size>407</size>
+<commit
+   revision="4397">
+<author>ppvora2</author>
+<date>2014-09-19T17:01:16.770693Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/Chess/src/Knight.java</name>
+<size>2168</size>
+<commit
+   revision="4397">
+<author>ppvora2</author>
+<date>2014-09-19T17:01:16.770693Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/Chess/src/KnightTest.java</name>
+<size>411</size>
+<commit
+   revision="4397">
+<author>ppvora2</author>
+<date>2014-09-19T17:01:16.770693Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/Chess/src/Location.java</name>
+<size>735</size>
+<commit
+   revision="4397">
+<author>ppvora2</author>
+<date>2014-09-19T17:01:16.770693Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/Chess/src/Pawn.java</name>
+<size>3015</size>
+<commit
+   revision="4397">
+<author>ppvora2</author>
+<date>2014-09-19T17:01:16.770693Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/Chess/src/PawnTest.java</name>
+<size>407</size>
+<commit
+   revision="4397">
+<author>ppvora2</author>
+<date>2014-09-19T17:01:16.770693Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/Chess/src/Piece.java</name>
+<size>3591</size>
+<commit
+   revision="4397">
+<author>ppvora2</author>
+<date>2014-09-19T17:01:16.770693Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/Chess/src/Queen.java</name>
+<size>2376</size>
+<commit
+   revision="4397">
+<author>ppvora2</author>
+<date>2014-09-19T17:01:16.770693Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/Chess/src/QueenTest.java</name>
+<size>408</size>
+<commit
+   revision="4397">
+<author>ppvora2</author>
+<date>2014-09-19T17:01:16.770693Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/Chess/src/Rook.java</name>
+<size>4300</size>
+<commit
+   revision="4397">
+<author>ppvora2</author>
+<date>2014-09-19T17:01:16.770693Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/Chess/src/RookTest.java</name>
+<size>407</size>
+<commit
+   revision="4397">
+<author>ppvora2</author>
+<date>2014-09-19T17:01:16.770693Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/Chess/src/Tile.java</name>
+<size>2610</size>
+<commit
+   revision="4397">
+<author>ppvora2</author>
+<date>2014-09-19T17:01:16.770693Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.2</name>
+<commit
+   revision="5260">
+<author>ppvora2</author>
+<date>2014-09-26T16:53:33.119109Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.2/Chess</name>
+<commit
+   revision="5260">
+<author>ppvora2</author>
+<date>2014-09-26T16:53:33.119109Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/Chess/.classpath</name>
+<size>379</size>
+<commit
+   revision="5108">
+<author>ppvora2</author>
+<date>2014-09-26T04:24:14.063836Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/Chess/.gitignore</name>
+<size>6</size>
+<commit
+   revision="5108">
+<author>ppvora2</author>
+<date>2014-09-26T04:24:14.063836Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/Chess/.project</name>
+<size>381</size>
+<commit
+   revision="5108">
+<author>ppvora2</author>
+<date>2014-09-26T04:24:14.063836Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.2/Chess/.settings</name>
+<commit
+   revision="5108">
+<author>ppvora2</author>
+<date>2014-09-26T04:24:14.063836Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/Chess/.settings/org.eclipse.jdt.core.prefs</name>
+<size>598</size>
+<commit
+   revision="5108">
+<author>ppvora2</author>
+<date>2014-09-26T04:24:14.063836Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.2/Chess/src</name>
+<commit
+   revision="5260">
+<author>ppvora2</author>
+<date>2014-09-26T16:53:33.119109Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.2/Chess/src/Game</name>
+<commit
+   revision="5260">
+<author>ppvora2</author>
+<date>2014-09-26T16:53:33.119109Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/Chess/src/Game/Board.java</name>
+<size>3283</size>
+<commit
+   revision="5108">
+<author>ppvora2</author>
+<date>2014-09-26T04:24:14.063836Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/Chess/src/Game/Chess.java</name>
+<size>118</size>
+<commit
+   revision="5108">
+<author>ppvora2</author>
+<date>2014-09-26T04:24:14.063836Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/Chess/src/Game/Color.java</name>
+<size>422</size>
+<commit
+   revision="5108">
+<author>ppvora2</author>
+<date>2014-09-26T04:24:14.063836Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/Chess/src/Game/GUI.java</name>
+<size>1947</size>
+<commit
+   revision="5108">
+<author>ppvora2</author>
+<date>2014-09-26T04:24:14.063836Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/Chess/src/Game/Location.java</name>
+<size>1498</size>
+<commit
+   revision="5108">
+<author>ppvora2</author>
+<date>2014-09-26T04:24:14.063836Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/Chess/src/Game/Piece.java</name>
+<size>3587</size>
+<commit
+   revision="5108">
+<author>ppvora2</author>
+<date>2014-09-26T04:24:14.063836Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.2/Chess/src/Game/Pieces</name>
+<commit
+   revision="5260">
+<author>ppvora2</author>
+<date>2014-09-26T16:53:33.119109Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/Chess/src/Game/Pieces/Bishop.java</name>
+<size>5172</size>
+<commit
+   revision="5260">
+<author>ppvora2</author>
+<date>2014-09-26T16:53:33.119109Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/Chess/src/Game/Pieces/King.java</name>
+<size>5051</size>
+<commit
+   revision="5260">
+<author>ppvora2</author>
+<date>2014-09-26T16:53:33.119109Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/Chess/src/Game/Pieces/Knight.java</name>
+<size>3344</size>
+<commit
+   revision="5260">
+<author>ppvora2</author>
+<date>2014-09-26T16:53:33.119109Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/Chess/src/Game/Pieces/Pawn.java</name>
+<size>6453</size>
+<commit
+   revision="5260">
+<author>ppvora2</author>
+<date>2014-09-26T16:53:33.119109Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/Chess/src/Game/Pieces/Queen.java</name>
+<size>6677</size>
+<commit
+   revision="5260">
+<author>ppvora2</author>
+<date>2014-09-26T16:53:33.119109Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/Chess/src/Game/Pieces/Rook.java</name>
+<size>4395</size>
+<commit
+   revision="5260">
+<author>ppvora2</author>
+<date>2014-09-26T16:53:33.119109Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/Chess/src/Game/Tile.java</name>
+<size>2670</size>
+<commit
+   revision="5108">
+<author>ppvora2</author>
+<date>2014-09-26T04:24:14.063836Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.2/Chess/src/Tests</name>
+<commit
+   revision="5108">
+<author>ppvora2</author>
+<date>2014-09-26T04:24:14.063836Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/Chess/src/Tests/BishopTest.java</name>
+<size>458</size>
+<commit
+   revision="5108">
+<author>ppvora2</author>
+<date>2014-09-26T04:24:14.063836Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/Chess/src/Tests/KingTest.java</name>
+<size>456</size>
+<commit
+   revision="5108">
+<author>ppvora2</author>
+<date>2014-09-26T04:24:14.063836Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/Chess/src/Tests/KnightTest.java</name>
+<size>458</size>
+<commit
+   revision="5108">
+<author>ppvora2</author>
+<date>2014-09-26T04:24:14.063836Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/Chess/src/Tests/PawnTest.java</name>
+<size>456</size>
+<commit
+   revision="5108">
+<author>ppvora2</author>
+<date>2014-09-26T04:24:14.063836Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/Chess/src/Tests/QueenTest.java</name>
+<size>457</size>
+<commit
+   revision="5108">
+<author>ppvora2</author>
+<date>2014-09-26T04:24:14.063836Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/Chess/src/Tests/RookTest.java</name>
+<size>454</size>
+<commit
+   revision="5108">
+<author>ppvora2</author>
+<date>2014-09-26T04:24:14.063836Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment2.0</name>
+<commit
+   revision="6072">
+<author>ppvora2</author>
+<date>2014-10-03T16:58:33.899186Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment2.0/CSAir</name>
+<commit
+   revision="6072">
+<author>ppvora2</author>
+<date>2014-10-03T16:58:33.899186Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2.0/CSAir/.project</name>
+<size>376</size>
+<commit
+   revision="5765">
+<author>ppvora2</author>
+<date>2014-10-02T13:24:50.531792Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2.0/CSAir/.pydevproject</name>
+<size>431</size>
+<commit
+   revision="5765">
+<author>ppvora2</author>
+<date>2014-10-02T13:24:50.531792Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment2.0/CSAir/src</name>
+<commit
+   revision="6072">
+<author>ppvora2</author>
+<date>2014-10-03T16:58:33.899186Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2.0/CSAir/src/Graph.py</name>
+<size>3313</size>
+<commit
+   revision="6072">
+<author>ppvora2</author>
+<date>2014-10-03T16:58:33.899186Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2.0/CSAir/src/__init__.py</name>
+<size>0</size>
+<commit
+   revision="5765">
+<author>ppvora2</author>
+<date>2014-10-02T13:24:50.531792Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment2.1</name>
+<commit
+   revision="6726">
+<author>ppvora2</author>
+<date>2014-10-10T17:00:28.922774Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment2.1/CSAir</name>
+<commit
+   revision="6726">
+<author>ppvora2</author>
+<date>2014-10-10T17:00:28.922774Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2.1/CSAir/.project</name>
+<size>376</size>
+<commit
+   revision="6711">
+<author>ppvora2</author>
+<date>2014-10-10T16:56:27.861153Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2.1/CSAir/.pydevproject</name>
+<size>431</size>
+<commit
+   revision="6711">
+<author>ppvora2</author>
+<date>2014-10-10T16:56:27.861153Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment2.1/CSAir/src</name>
+<commit
+   revision="6726">
+<author>ppvora2</author>
+<date>2014-10-10T17:00:28.922774Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2.1/CSAir/src/CSAir.py</name>
+<size>1565</size>
+<commit
+   revision="6726">
+<author>ppvora2</author>
+<date>2014-10-10T17:00:28.922774Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2.1/CSAir/src/Edge.py</name>
+<size>1656</size>
+<commit
+   revision="6726">
+<author>ppvora2</author>
+<date>2014-10-10T17:00:28.922774Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2.1/CSAir/src/Graph.py</name>
+<size>3383</size>
+<commit
+   revision="6726">
+<author>ppvora2</author>
+<date>2014-10-10T17:00:28.922774Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2.1/CSAir/src/Node.py</name>
+<size>3193</size>
+<commit
+   revision="6726">
+<author>ppvora2</author>
+<date>2014-10-10T17:00:28.922774Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2.1/CSAir/src/__init__.py</name>
+<size>0</size>
+<commit
+   revision="6711">
+<author>ppvora2</author>
+<date>2014-10-10T16:56:27.861153Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2.1/CSAir/src/map_data.json</name>
+<size>16098</size>
+<commit
+   revision="6711">
+<author>ppvora2</author>
+<date>2014-10-10T16:56:27.861153Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>grocery</name>
+<commit
+   revision="1850">
+<author>ppvora2</author>
+<date>2014-09-05T16:17:06.203935Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>grocery/list1.txt</name>
+<size>47</size>
+<commit
+   revision="1850">
+<author>ppvora2</author>
+<date>2014-09-05T16:17:06.203935Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>grocery/list2.txt</name>
+<size>47</size>
+<commit
+   revision="1850">
+<author>ppvora2</author>
+<date>2014-09-05T16:17:06.203935Z</date>
+</commit>
+</entry>
+</list>
+</lists>
